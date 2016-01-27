@@ -1,0 +1,19 @@
+                                                                     Root
+                                                       ________________|_________________ 
+                                                      /                                  \
+                                                 Human-Cow                               |
+                                     _________________|_________________                 |
+                                    /                                   \                |
+                               Human-Rabbit                          Cow-Horse           |
+                        ____________|____________                  _____|______          |
+                       /                         \                /            \         |
+                  Human-Marmoset           Rabbit-Rat        Horse-Cat      Cow-Pig      |
+             __________|_________            ____|____         ___|___        _|_        |
+            /                    \          /         \       /       \      /   \       |
+       Human-Baboon              |       Rat-Mouse    |       |    Cat-Dog   |   |       |
+      ______|______              |         _|__       |       |      _|_     |   |       |
+     /             \             |        /    \      |       |     /   \    |   |       |
+Human-Chimp  Baboon-Macaque      |        |    |      |       |     |   |    |   |       |
+   __|__        ___|___          |        |    |      |       |     |   |    |   |       |
+  /     \      /       \         |        |    |      |       |     |   |    |   |       |
+Human Chimp  Baboon Macaque   Marmoset   Rat Mouse  Rabbit  Horse  Cat Dog  Cow Pig  Elephant
